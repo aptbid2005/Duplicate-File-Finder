@@ -1,0 +1,31 @@
+C:\Source\Duplicate File Finder Converted\obj\Debug\Duplicate File Finder.csprojAssemblyReference.cache
+C:\Source\Duplicate File Finder Converted\obj\Debug\DuplicateFileFinder.About.resources
+C:\Source\Duplicate File Finder Converted\obj\Debug\DuplicateFileFinder.CheckForUpdate.resources
+C:\Source\Duplicate File Finder Converted\obj\Debug\DuplicateFileFinder.DataError.resources
+C:\Source\Duplicate File Finder Converted\obj\Debug\DuplicateFileFinder.frmRegistration.resources
+C:\Source\Duplicate File Finder Converted\obj\Debug\DuplicateFileFinder.NewMain.resources
+C:\Source\Duplicate File Finder Converted\obj\Debug\DuplicateFileFinder.Suggestion.resources
+C:\Source\Duplicate File Finder Converted\obj\Debug\DuplicateFileFinder.Properties.Resources.resources
+C:\Source\Duplicate File Finder Converted\obj\Debug\Duplicate File Finder.csproj.GenerateResource.cache
+C:\Source\Duplicate File Finder Converted\obj\Debug\Duplicate File Finder.exe.licenses
+C:\Source\Duplicate File Finder Converted\obj\Debug\Duplicate File Finder.csproj.CoreCompileInputs.cache
+C:\Source\Duplicate File Finder Converted\bin\Debug\Duplicate File Finder.exe.config
+C:\Source\Duplicate File Finder Converted\bin\Debug\Duplicate File Finder.exe
+C:\Source\Duplicate File Finder Converted\bin\Debug\Duplicate File Finder.pdb
+C:\Source\Duplicate File Finder Converted\bin\Debug\Duplicate File Finder.xml
+C:\Source\Duplicate File Finder Converted\bin\Debug\DuplicateFileFinderCTL.dll
+C:\Source\Duplicate File Finder Converted\bin\Debug\Infragistics2.Excel.v9.2.dll
+C:\Source\Duplicate File Finder Converted\bin\Debug\Infragistics2.Shared.v9.2.dll
+C:\Source\Duplicate File Finder Converted\bin\Debug\Infragistics2.Win.UltraWinGrid.ExcelExport.v9.2.dll
+C:\Source\Duplicate File Finder Converted\bin\Debug\Infragistics2.Win.UltraWinGrid.v9.2.dll
+C:\Source\Duplicate File Finder Converted\bin\Debug\Infragistics2.Win.v9.2.dll
+C:\Source\Duplicate File Finder Converted\bin\Debug\DuplicateFileFinderCTL.pdb
+C:\Source\Duplicate File Finder Converted\bin\Debug\DuplicateFileFinderCTL.xml
+C:\Source\Duplicate File Finder Converted\bin\Debug\Infragistics2.Excel.v9.2.xml
+C:\Source\Duplicate File Finder Converted\bin\Debug\Infragistics2.Shared.v9.2.xml
+C:\Source\Duplicate File Finder Converted\bin\Debug\Infragistics2.Win.UltraWinGrid.ExcelExport.v9.2.xml
+C:\Source\Duplicate File Finder Converted\bin\Debug\Infragistics2.Win.UltraWinGrid.v9.2.xml
+C:\Source\Duplicate File Finder Converted\bin\Debug\Infragistics2.Win.v9.2.xml
+C:\Source\Duplicate File Finder Converted\obj\Debug\Duplicate File Finder.csproj.CopyComplete
+C:\Source\Duplicate File Finder Converted\obj\Debug\Duplicate File Finder.exe
+C:\Source\Duplicate File Finder Converted\obj\Debug\Duplicate File Finder.pdb

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsFileInfo" targetNamespace="http://tempuri.org/dsFileInfo.xsd" xmlns:mstns="http://tempuri.org/dsFileInfo.xsd" xmlns="http://tempuri.org/dsFileInfo.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsFileInfo" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="dsFileInfo" msprop:Generator_DataSetName="dsFileInfo">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="FileInfo" msprop:Generator_UserTableName="FileInfo" msprop:Generator_RowDeletedName="FileInfoRowDeleted" msprop:Generator_RowChangedName="FileInfoRowChanged" msprop:Generator_RowClassName="FileInfoRow" msprop:Generator_RowChangingName="FileInfoRowChanging" msprop:Generator_RowEvArgName="FileInfoRowChangeEvent" msprop:Generator_RowEvHandlerName="FileInfoRowChangeEventHandler" msprop:Generator_TableClassName="FileInfoDataTable" msprop:Generator_TableVarName="tableFileInfo" msprop:Generator_RowDeletingName="FileInfoRowDeleting" msprop:Generator_TablePropName="FileInfo">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Name" msprop:Generator_UserColumnName="Name" msprop:Generator_ColumnPropNameInRow="Name" msprop:Generator_ColumnVarNameInTable="columnName" msprop:Generator_ColumnPropNameInTable="NameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Size" msprop:Generator_UserColumnName="Size" msprop:Generator_ColumnPropNameInRow="Size" msprop:Generator_ColumnVarNameInTable="columnSize" msprop:Generator_ColumnPropNameInTable="SizeColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="Type" msprop:Generator_UserColumnName="Type" msprop:Generator_ColumnPropNameInRow="Type" msprop:Generator_ColumnVarNameInTable="columnType" msprop:Generator_ColumnPropNameInTable="TypeColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="CreateDate" msprop:Generator_UserColumnName="CreateDate" msprop:Generator_ColumnPropNameInRow="CreateDate" msprop:Generator_ColumnVarNameInTable="columnCreateDate" msprop:Generator_ColumnPropNameInTable="CreateDateColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="UID" msprop:Generator_UserColumnName="UID" msprop:Generator_ColumnPropNameInRow="UID" msprop:Generator_ColumnVarNameInTable="columnUID" msprop:Generator_ColumnPropNameInTable="UIDColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Path" msprop:Generator_UserColumnName="Path" msprop:Generator_ColumnVarNameInTable="columnPath" msprop:Generator_ColumnPropNameInRow="Path" msprop:Generator_ColumnPropNameInTable="PathColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Duplicate" msprop:Generator_UserColumnName="Duplicate" msprop:Generator_ColumnPropNameInRow="Duplicate" msprop:Generator_ColumnVarNameInTable="columnDuplicate" msprop:Generator_ColumnPropNameInTable="DuplicateColumn" type="xs:short" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

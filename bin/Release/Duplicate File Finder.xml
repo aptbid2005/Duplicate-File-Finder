@@ -1,0 +1,144 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DuplicateFileFinder
+</name>
+</assembly>
+<members>
+<member name="P:DuplicateFileFinder.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:DuplicateFileFinder.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:DuplicateFileFinder.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:DuplicateFileFinder.TheProDev.Common.#ctor">
+	<remarks/>
+</member><member name="E:DuplicateFileFinder.TheProDev.Common.CheckForUpdateCompleted">
+	<remarks/>
+</member><member name="E:DuplicateFileFinder.TheProDev.Common.MakeASuggestionCompleted">
+	<remarks/>
+</member><member name="E:DuplicateFileFinder.TheProDev.Common.ActivateProductCompleted">
+	<remarks/>
+</member><member name="E:DuplicateFileFinder.TheProDev.Common.ActivateProductV2Completed">
+	<remarks/>
+</member><member name="E:DuplicateFileFinder.TheProDev.Common.ValidateEKCCompleted">
+	<remarks/>
+</member><member name="E:DuplicateFileFinder.TheProDev.Common.ReportErrorCompleted">
+	<remarks/>
+</member><member name="E:DuplicateFileFinder.TheProDev.Common.ReportErrorV2Completed">
+	<remarks/>
+</member><member name="E:DuplicateFileFinder.TheProDev.Common.ReportErrorDesktopErrorCompleted">
+	<remarks/>
+</member><member name="M:DuplicateFileFinder.TheProDev.Common.CheckForUpdate(System.String,System.Int32)">
+	<remarks/>
+</member><member name="M:DuplicateFileFinder.TheProDev.Common.CheckForUpdateAsync(System.String,System.Int32)">
+	<remarks/>
+</member><member name="M:DuplicateFileFinder.TheProDev.Common.CheckForUpdateAsync(System.String,System.Int32,System.Object)">
+	<remarks/>
+</member><member name="M:DuplicateFileFinder.TheProDev.Common.MakeASuggestion(System.String,System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:DuplicateFileFinder.TheProDev.Common.MakeASuggestionAsync(System.String,System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:DuplicateFileFinder.TheProDev.Common.MakeASuggestionAsync(System.String,System.String,System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:DuplicateFileFinder.TheProDev.Common.ActivateProduct(System.String)">
+	<remarks/>
+</member><member name="M:DuplicateFileFinder.TheProDev.Common.ActivateProductAsync(System.String)">
+	<remarks/>
+</member><member name="M:DuplicateFileFinder.TheProDev.Common.ActivateProductAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:DuplicateFileFinder.TheProDev.Common.ActivateProductV2(System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:DuplicateFileFinder.TheProDev.Common.ActivateProductV2Async(System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:DuplicateFileFinder.TheProDev.Common.ActivateProductV2Async(System.String,System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:DuplicateFileFinder.TheProDev.Common.ValidateEKC(System.String)">
+	<remarks/>
+</member><member name="M:DuplicateFileFinder.TheProDev.Common.ValidateEKCAsync(System.String)">
+	<remarks/>
+</member><member name="M:DuplicateFileFinder.TheProDev.Common.ValidateEKCAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:DuplicateFileFinder.TheProDev.Common.ReportError(System.String,System.String,System.String,System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:DuplicateFileFinder.TheProDev.Common.ReportErrorAsync(System.String,System.String,System.String,System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:DuplicateFileFinder.TheProDev.Common.ReportErrorAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:DuplicateFileFinder.TheProDev.Common.ReportErrorV2(System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:DuplicateFileFinder.TheProDev.Common.ReportErrorV2Async(System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:DuplicateFileFinder.TheProDev.Common.ReportErrorV2Async(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:DuplicateFileFinder.TheProDev.Common.ReportErrorDesktopError(System.String,System.String,System.String,System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:DuplicateFileFinder.TheProDev.Common.ReportErrorDesktopErrorAsync(System.String,System.String,System.String,System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:DuplicateFileFinder.TheProDev.Common.ReportErrorDesktopErrorAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:DuplicateFileFinder.TheProDev.Common.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:DuplicateFileFinder.TheProDev.Common">
+	<remarks/>
+</member><member name="P:DuplicateFileFinder.TheProDev.clsActivation.OrderItemId">
+	<remarks/>
+</member><member name="P:DuplicateFileFinder.TheProDev.clsActivation.Activate">
+	<remarks/>
+</member><member name="P:DuplicateFileFinder.TheProDev.clsActivation.Message">
+	<remarks/>
+</member><member name="P:DuplicateFileFinder.TheProDev.clsActivation.ActivationCount">
+	<remarks/>
+</member><member name="P:DuplicateFileFinder.TheProDev.clsActivation.RegistrationKey">
+	<remarks/>
+</member><member name="P:DuplicateFileFinder.TheProDev.clsActivation.OrderValid">
+	<remarks/>
+</member><member name="T:DuplicateFileFinder.TheProDev.clsActivation">
+	<remarks/>
+</member><member name="T:DuplicateFileFinder.TheProDev.CheckForUpdateCompletedEventHandler">
+	<remarks/>
+</member><member name="P:DuplicateFileFinder.TheProDev.CheckForUpdateCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:DuplicateFileFinder.TheProDev.CheckForUpdateCompletedEventArgs">
+	<remarks/>
+</member><member name="T:DuplicateFileFinder.TheProDev.MakeASuggestionCompletedEventHandler">
+	<remarks/>
+</member><member name="P:DuplicateFileFinder.TheProDev.MakeASuggestionCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:DuplicateFileFinder.TheProDev.MakeASuggestionCompletedEventArgs">
+	<remarks/>
+</member><member name="T:DuplicateFileFinder.TheProDev.ActivateProductCompletedEventHandler">
+	<remarks/>
+</member><member name="P:DuplicateFileFinder.TheProDev.ActivateProductCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:DuplicateFileFinder.TheProDev.ActivateProductCompletedEventArgs">
+	<remarks/>
+</member><member name="T:DuplicateFileFinder.TheProDev.ActivateProductV2CompletedEventHandler">
+	<remarks/>
+</member><member name="P:DuplicateFileFinder.TheProDev.ActivateProductV2CompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:DuplicateFileFinder.TheProDev.ActivateProductV2CompletedEventArgs">
+	<remarks/>
+</member><member name="T:DuplicateFileFinder.TheProDev.ValidateEKCCompletedEventHandler">
+	<remarks/>
+</member><member name="P:DuplicateFileFinder.TheProDev.ValidateEKCCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:DuplicateFileFinder.TheProDev.ValidateEKCCompletedEventArgs">
+	<remarks/>
+</member><member name="T:DuplicateFileFinder.TheProDev.ReportErrorCompletedEventHandler">
+	<remarks/>
+</member><member name="T:DuplicateFileFinder.TheProDev.ReportErrorV2CompletedEventHandler">
+	<remarks/>
+</member><member name="T:DuplicateFileFinder.TheProDev.ReportErrorDesktopErrorCompletedEventHandler">
+	<remarks/>
+</member>
+</members>
+</doc>
